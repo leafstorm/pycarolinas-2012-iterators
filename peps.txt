@@ -1,0 +1,15 @@
+
+    =========================
+    PEPs Related to Iterators
+    =========================
+
+    PEP 234     Created the iterator protocol
+    PEP 255     Created generators
+    PEP 289     Generator expressions
+    PEP 342     Added `send`, `throw`, and `close`
+                methods for generators
+    PEP 380     Added `yield from` 
+    PEP 3114    `next` changed to `__next__` in Python 3
+    PEP 3142    `while` clause in generator expressions
+
+
